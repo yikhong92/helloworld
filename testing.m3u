@@ -37,13 +37,13 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 https://agplayback03.aotg-video.astro.com.my/CH1/master_AGS_RAYA_04.m3u8 
 
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/channel-5.png",Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+https://tglmp02.akamaized.net/out/v1/f091238359f8455f8396cef639d0d9f7/master_4.m3u8
 
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/channel-8.png",Channel 8 
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/channel-u.png",Channel U 
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+https://tglmp03.akamaized.net/out/v1/b27afa589617426ea177726bbb5b0c6c/master_4.m3u8
 
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/suria.png",Suria 
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
