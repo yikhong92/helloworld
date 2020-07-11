@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/tv1.png",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
@@ -18,6 +17,38 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVJsYyn8W2RmVlhZlA
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/tv9.png",TV9
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaCTmL4ZNLGp2rTyG80G1hM)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ebc-movie-live.jpg",東森電影
+http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ebc-emovie-live.jpg",東森洋片
+http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ebc-emovie-live.jpg",東森洋片
+http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-news-live.jpg",中天新闻
+http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-tv-live.jpg",中天综合
+http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-tv-live.jpg",中天綜合
+http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-drama-live.jpg",中天娱乐
+http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-drama-live.jpg",中天娱乐
+http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gala_Television_logo_2011.png",八大綜合
+http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gala_Television_logo_2011.png",八大综合
+http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+
+#EXTINF:-1 group-title="Singapore" tvg-logo="https://www.mewatch.sg/image/5253176/16x9/947/533/b49cfbbdfadcac8183438a67da78f60a/Ef/channel-5.png",Channel 5 
+https://tglmp02.akamaized.net/out/v1/f091238359f8455f8396cef639d0d9f7/master_4.m3u8
+
+#EXTINF:-1 group-title="Singapore" tvg-logo="https://img2.pngio.com/channel-8-logo-png-mediacorp-channel-8-png-947_533.png",Channel 8 
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+
+#EXTINF:-1 group-title="Singapore" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/Channel_u_logo_2001.png",Channel U 
+https://tglmp03.akamaized.net/out/v1/b27afa589617426ea177726bbb5b0c6c/master_4.m3u8
+
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/dramasangat.png",Drama Sangat
 https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0s_lzKZONp7GSWCMIx20llw)/dm/3/x6zvnex/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/x6zvnex
 
@@ -35,15 +66,6 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/goshop.png",Astro Go Shop 
 https://agplayback03.aotg-video.astro.com.my/CH1/master_AGS_RAYA_04.m3u8 
-
-#EXTINF:-1 group-title="Singapore" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/channel-5.png",Channel 5 
-https://tglmp02.akamaized.net/out/v1/f091238359f8455f8396cef639d0d9f7/master_4.m3u8
-
-#EXTINF:-1 group-title="Singapore" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/channel-8.png",Channel 8 
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-
-#EXTINF:-1 group-title="Singapore" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/channel-u.png",Channel U 
-https://tglmp03.akamaized.net/out/v1/b27afa589617426ea177726bbb5b0c6c/master_4.m3u8
 
 #EXTINF:-1 group-title="Singapore" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/suria.png",Suria 
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
