@@ -26,7 +26,7 @@ for index, channel in enumerate(tv_channel):
                 else:
                     ch_addr['TV8'] = url['uri'].split('#cell')[0]
 
-os.chdir("helloworld")
+# os.chdir("helloworld")
 # os.system("git pull")
 with open("testing_1.m3u", 'w', encoding="utf-8") as output_testing:
     with open("testing.m3u", encoding="utf-8") as git_file:
