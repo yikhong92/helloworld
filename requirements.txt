@@ -1,3 +1,4 @@
 django
 gunicorn
 django-heroku
+requests==2.23.0
