@@ -35,3 +35,6 @@ https://cdn.hkdtmb.com/hls/99/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",探索频道
 rtmp://58.200.131.2:1935/livetv/discovery
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",国家地理
+rtmp://58.200.131.2:1935/livetv/natlgeo
