@@ -38,3 +38,6 @@ rtmp://58.200.131.2:1935/livetv/discovery
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",国家地理
 rtmp://58.200.131.2:1935/livetv/natlgeo
+
+#EXTINF:-1 tvg-logo="H" group-title="MEXICO", HBO| HD
+http://blackghost.live/play/tlvall-202.php?c=1467&f=.m2u8
