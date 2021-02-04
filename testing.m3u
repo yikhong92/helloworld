@@ -8,8 +8,14 @@ https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/ntv7.png",NTV7
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWOXUHBdltVB-HwpbCdMd-M)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
 
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/ntv7.png",NTV7-2
+https://fvtv2.mywire.org/streams/dailymotion/ch_ntv7.m3u8
+
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/8tv.png",8TV
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYCSl8t7DPhCrX5JiwXm3JI)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/8tv.png",八度空间
+https://fvtv2.mywire.org/streams/dailymotion/ch_8tv.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/tv9.png",TV9
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaCTmL4ZNLGp2rTyG80G1hM)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
