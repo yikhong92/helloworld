@@ -26,7 +26,7 @@ http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fs
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB星河
-http://62.210.124.97:8080/ThvyEuEq0x/KabEVcFsC0/33253?play_token=rXHfszbzIx&token=QhVcUhcJRggXXFAEVlFRAlNTBVdZBAFaB1RWBV8BU1BcBAUDUQcHVwZGGURBEkJRAFtpWgVEXlBWVgBSSkAXElxFa1oAQ14QAlUHUAFfEhhDQl9eBEReUlNUB1lSUltRCRsWQw0FRggXVwdQAlISGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXFwTXFhNFFVcFAgQERxGD0MrO0BNG1JMRwEPF1taChdcEBJDFk0UX0A+FAEQERZQAAsHEEMDFQQRSEMJU007VglcCFVXFV9ZXRJEXkFURhlDCw0MCE1YRmwUCAAQD0YGVAdfBhYc
+http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="Hong Kong香港",TVB Pearl 明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
