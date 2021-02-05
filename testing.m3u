@@ -52,4 +52,4 @@ rtmp://58.200.131.2:1935/livetv/discovery
 rtmp://58.200.131.2:1935/livetv/natlgeo
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO AXN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Iptvtree Malaysia",MY: ASTRO AXN HD
-http://iptvtree.net:8080/13354/27c12697/264496
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
