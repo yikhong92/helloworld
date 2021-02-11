@@ -6,30 +6,30 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTtmj-BqXNFs22ldo-
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRxvS82chH917M6I4coEUcE)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO AEC
-http://tv.wakds.xyz:8080/@multi2021/@multi202110/182
+http://185.238.242.136:20000/hls/play/id/433.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO AEC
-http://tv.wakds.xyz:8080/@multi2021/@multi202110/4205
+http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO 双星
-http://tv.wakds.xyz:8080/@multi2021/@multi202110/4157
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",TVB翡翠台
 http://tv.wakds.xyz:8080/@multi2021/@multi202110/4159
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO 爱奇艺
-http://tv.wakds.xyz:8080/@multi2021/@multi202110/186
+http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO AOD
-http://tv.wakds.xyz:8080/@multi2021/@multi202110/4166
+http://185.238.242.136:20000/hls/play/id/428.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO AOD
+http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO 全佳
-http://tv.wakds.xyz:8080/@multi2021/@multi202110/4153
+http://185.238.242.136:20000/hls/play/id/431.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO 欢喜台
-http://tv.wakds.xyz:8080/@multi2021/@multi202110/4155
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO 欢喜台
-http://tv.wakds.xyz:8080/@multi2021/@multi202110/4181
+http://185.238.242.136:20000/hls/play/id/432.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO 小太阳
-http://tv.wakds.xyz:8080/@multi2021/@multi202110/190
+http://185.238.242.136:20000/hls/play/id/443.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台1
 https://cdn.hkdtmb.com/hls/81/index.m3u8
@@ -38,7 +38,7 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB星河
-http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="Hong Kong香港",TVB Pearl 明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
