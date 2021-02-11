@@ -9,26 +9,24 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRxvS82chH917M6I4c
 http://185.238.242.136:20000/hls/play/id/433.m3u8
 #EXTINF:-1   tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="ASTRO",ASTRO AEC
 http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO 双星
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Astro_SHX_HD.png" group-title="ASTRO",ASTRO 双星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",TVB翡翠台
-http://tv.wakds.xyz:8080/@multi2021/@multi202110/4159
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO 爱奇艺
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/1920px-IQiyi_logo.svg.png" group-title="ASTRO",ASTRO 爱奇艺
 http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO AOD
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_%28s17%29.png" group-title="ASTRO",ASTRO AOD
 http://185.238.242.136:20000/hls/play/id/428.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO AOD
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_%28s17%29.png" group-title="ASTRO",ASTRO AOD
 http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO 全佳
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Astro_Quan_Jia.png" group-title="ASTRO",ASTRO 全佳
 http://185.238.242.136:20000/hls/play/id/431.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO 欢喜台
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Astro_HHD_HD.png" group-title="ASTRO",ASTRO 欢喜台
 http://185.238.242.136:20000/hls/play/id/432.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ASTRO",ASTRO 小太阳
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_%282019%29.png" group-title="ASTRO",ASTRO 小太阳
 http://185.238.242.136:20000/hls/play/id/443.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台1
