@@ -29,25 +29,5 @@ http://185.238.242.136:20000/hls/play/id/432.m3u8
 #EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_%282019%29.png" group-title="ASTRO",ASTRO 小太阳
 http://185.238.242.136:20000/hls/play/id/443.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台1
-https://cdn.hkdtmb.com/hls/81/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB星河
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="Hong Kong香港",TVB Pearl 明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/500px-ViuTV_logo.svg.png" group-title="Hong Kong香港",VIU TV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",探索频道
-rtmp://58.200.131.2:1935/livetv/discovery
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ivi.bupt.edu.cn",国家地理
-rtmp://58.200.131.2:1935/livetv/natlgeo
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO AXN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Iptvtree Malaysia",MY: ASTRO AXN HD
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/d4/Celestial_Movies.png" group-title="ASTRO",天映频道
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
