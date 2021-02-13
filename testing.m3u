@@ -6,7 +6,7 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTtmj-BqXNFs22ldo-
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRxvS82chH917M6I4coEUcE)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
 
 #EXTINF:-1   tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="ASTRO",ASTRO AEC
-http://185.238.242.136:20000/hls/play/id/433.m3u8
+http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="ASTRO",ASTRO AEC
 http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Astro_SHX_HD.png" group-title="ASTRO",ASTRO 双星
@@ -15,19 +15,19 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_%28s17%29.png" group-title="ASTRO",ASTRO AOD
-http://185.238.242.136:20000/hls/play/id/428.m3u8
+http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_%28s17%29.png" group-title="ASTRO",ASTRO AOD
 http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Astro_Quan_Jia.png" group-title="ASTRO",ASTRO 全佳
-http://185.238.242.136:20000/hls/play/id/431.m3u8
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Astro_HHD_HD.png" group-title="ASTRO",ASTRO 欢喜台
-http://185.238.242.136:20000/hls/play/id/432.m3u8
+http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_%282019%29.png" group-title="ASTRO",ASTRO 小太阳
-http://185.238.242.136:20000/hls/play/id/443.m3u8
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/d4/Celestial_Movies.png" group-title="ASTRO",天映频道
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
