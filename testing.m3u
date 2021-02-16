@@ -24,7 +24,7 @@ http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Astro_HHD_HD.png" group-title="ASTRO",ASTRO 欢喜台
-http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/185
 
 #EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Astro_Xiao_Tai_Yang_%282019%29.png" group-title="ASTRO",ASTRO 小太阳
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
