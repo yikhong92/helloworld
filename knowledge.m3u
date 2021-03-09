@@ -13,7 +13,7 @@ https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-disco
 rtmp://58.200.131.2:1935/livetv/discovery
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png" group-title="KNOWLEDGE",Discovery SCI
-http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/3523
+http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/3597
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE",National Geographic Channel
 #EXTVLCOPT:http-user-agent=OKBOS
