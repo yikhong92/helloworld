@@ -7,3 +7,6 @@ http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Astro_Quan_Jia.png",Astro_全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",TVB_星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
