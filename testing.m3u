@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/8tv.png",8TV
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTQ4fZUlEuO2Pdbzl3Ic9bc)/dm/3/x6qud17/s/live-1.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHanuN65A4bTCXmp3c1muPD0)/dm/3/x6qud17/s/live-1.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Astro_AEC_HD_logo.jpg",Astro_AEC
 http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
