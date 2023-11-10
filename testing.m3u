@@ -15,7 +15,7 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
-#EXTINF:-1 tvg-id="300" tvg-name="ASTRO iQIYI" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iqiyi-cn.png" group-title="MALAYSIA🇲🇾",ASTRO iQIYI
+#EXTINF:-1 tvg-id="300" tvg-name="ASTRO iQIYI" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iqiyi-cn.png" group-title="MALAYSIA🇲🇾",爱奇艺
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -25,27 +25,27 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/403
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png" group-title="MALAYSIA🇲🇾",CCTV4 ASIA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png" group-title="MALAYSIA🇲🇾",CCTV-4 中文国际
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/400
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_cn.png" group-title="MALAYSIA🇲🇾",PHOENIX CHINESE CHANNEL HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_cn.png" group-title="MALAYSIA🇲🇾",凤凰卫视
 https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5016
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_classic.png" group-title="MALAYSIA🇲🇾",TVB CLASSIC HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_classic.png" group-title="MALAYSIA🇲🇾",TVB 经典台
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5015
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_entertainment_news.png" group-title="MALAYSIA🇲🇾",TVB ENTERTAIMENT NEWS HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_entertainment_news.png" group-title="MALAYSIA🇲🇾",TVB 娛樂新聞台
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2600
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_jade_my.png" group-title="MALAYSIA🇲🇾",TVB JADE HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_jade_my.png" group-title="MALAYSIA🇲🇾",TVB 翡翠台
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,7 +55,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/401
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb-xing-he-hk.png" group-title="MALAYSIA🇲🇾",TVB XING HE HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb-xing-he-hk.png" group-title="MALAYSIA🇲🇾",TVB 星河频道
 https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -78,7 +78,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="LIFESTYLE",ASIAN FOOD NETWORK
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="LIFESTYLE",亚洲美食频道
 https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -118,7 +118,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2018_animal_planet_logo.svg_.png" group-title="DOCUMENTARY",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2018_animal_planet_logo.svg_.png" group-title="DOCUMENTARY",动物星球
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -153,7 +153,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",CELESTIAL MOVIES
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",天映频道
 http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
