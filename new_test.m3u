@@ -1,5 +1,5 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/400
+#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-asia-tw.png" group-title="MALAYSIA",PHOENIX CHINESE CHANNEL HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 
