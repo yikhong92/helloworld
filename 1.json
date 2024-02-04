@@ -1,9 +1,15 @@
 {
     "spider": "https://github.com/yikhong92/helloworld/raw/master/custom_spider.jar;md5;5C0593AEAA87386B96A3F3B0F76C9AE6;md5;972b316122a682eee2197e4d241defee",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
-            {"key":"csp_Xiaoxintv","name":"xiaoxin","type":3,"api":"csp_Xiaoxintv","searchable":0,"quickSearch":0,"filterable":1},
+            "key": "csp_Xiaoxintv",
+            "name": "xiaoxin",
+            "type": 3,
+            "api": "csp_Xiaoxintv",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
         }
     ]
 }
