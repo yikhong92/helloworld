@@ -1,15 +1,10 @@
 {
-    "spider": "https://github.com/yikhong92/helloworld/raw/master/custom_spider.jar;md5;d4c60c2e6043c597d7701337514a01d3",
-    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "spider": "https://github.com/yikhong92/helloworld/raw/master/custom_spider.jar;md5;6a23e18c8792752711abd786491678ff",
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
-            "key": "csp_Xiaoxintv",
-            "name": "xiaoxin",
-            "type": 3,
-            "api": "csp_Xiaoxintv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
-        }
+            "key":"csp_Xiaoxintv","name":"xiaoxin","type":3,"api":"csp_Xiaoxintv","searchable":1,"quickSearch":0,"filterable":1
+        },
+        {"key":"haiwaikan","name":"海外看","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"filterable":1}
     ]
 }
