@@ -9,10 +9,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="103" tvg-id="103.astro" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
-#EXTINF:-1 tvg-id="8TV" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" tvg-chno="5" channel-id="5" group-title="Malaysia",8TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 
 #EXTINF:-1 ch-number="300" tvg-id="300.astro" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI 爱奇艺
 #KODIPROP:inputstream.adaptive.license_type=clearkey
