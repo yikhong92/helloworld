@@ -12,7 +12,7 @@ https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9be
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" tvg-chno="5" channel-id="5" group-title="Malaysia",8TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 
 #EXTINF:-1 ch-number="300" tvg-id="300.astro" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI 爱奇艺
 #KODIPROP:inputstream.adaptive.license_type=clearkey
