@@ -1,5 +1,17 @@
-#EXTINF:-1 group-title="Chinese" ch-number="306" tvg-id="306.astro" tvg-chno="306" tvg-logo="https://logos.fandom.com/wiki/Astro_AEC?file=Astro_AEC_HD_logo.jpg",AEC HD 1
+#EXTINF:-1 group-title="Chinese" ch-number="306" tvg-id="306.astro" tvg-chno="306" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Astro_AEC_HD.png",AEC HD 1
 https://z88.ubtvfans.com/live/rx3/433/2d19cd6ecf75dc80b839369e166a9d8f/index.m3u8
 
-#EXTINF:-1 group-title="Chinese" ch-number="307" tvg-id="306.astro" tvg-chno="307" tvg-logo="https://logos.fandom.com/wiki/Astro_AEC?file=Astro_AEC_HD_logo.jpg",AEC HD 2
+#EXTINF:-1 group-title="Chinese" ch-number="307" tvg-id="306.astro" tvg-chno="307" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Astro_AEC_HD.png",AEC HD 2
 https://z88.ubtvfans.com/live/rx3/2745/9e39f15f04e377d91b58e759bca6be30/index.m3u8
+
+#EXTINF:-1 group-title="Sports" ch-number="811" tvg-id="811.astro" tvg-chno="811" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",AstroSuperSport HD
+https://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
+
+#EXTINF:-1 group-title="Sports" ch-number="812" tvg-id="811.astro" tvg-chno="812" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Astro_ASSP2_HD.png",AstroSuperSport 2 HD
+https://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
+
+#EXTINF:-1 group-title="Sports" ch-number="813" tvg-id="811.astro" tvg-chno="813" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Astro_ASSP3_HD.png",AstroSuperSport 3 HD
+https://z88.ubtvfans.com/live/rx3/1072/c67b9eaba4040f95114b5ab2e813b322/index.m3u8
+
+#EXTINF:-1 group-title="Sports" ch-number="814" tvg-id="811.astro" tvg-chno="814" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Astro_ASSP4_HD.png",AstroSuperSport 4 HD
+https://z88.ubtvfans.com/live/rx3/447/632f3b53ec7433aec73594c6ed966313/index.m3u8
