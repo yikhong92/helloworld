@@ -264,3 +264,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1nOa7mx2dBdjmS03zGbxuA", "kid":"964dxxzFj7h2tOZZF0+cEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="809.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2-STADIA.png" group-title="EURO24" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",SPOTV 2 Stadia
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5149/default_primary.mpd
+
+#EXTINF:-1 ch-number="306" tvg-id="306.astro" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="Chinese",Astro AEC
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=100
+http://vo01.mohdtv.com:8880/voby4055/7457362324/1723
