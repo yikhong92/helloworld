@@ -1,0 +1,1033 @@
+<tv>
+    <channel id="CH1">
+        <display-name>CH1</display-name>
+    </channel>
+    <channel id="CH2">
+        <display-name>CH2</display-name>
+    </channel>
+    <channel id="CH3">
+        <display-name>CH3</display-name>
+    </channel>
+    <channel id="CH4">
+        <display-name>CH4</display-name>
+    </channel>
+    <channel id="CH5">
+        <display-name>CH5</display-name>
+    </channel>
+    <channel id="CH6">
+        <display-name>CH6</display-name>
+    </channel>
+    <channel id="CH7">
+        <display-name>CH7</display-name>
+    </channel>
+    <channel id="CH8">
+        <display-name>CH8</display-name>
+    </channel>
+    <channel id="CH9">
+        <display-name>CH9</display-name>
+    </channel>
+    <channel id="CH10">
+        <display-name>CH10</display-name>
+    </channel>
+    <channel id="CH11">
+        <display-name>CH11</display-name>
+    </channel>
+    <channel id="CH12">
+        <display-name>CH12</display-name>
+    </channel>
+    <channel id="CH13">
+        <display-name>CH13</display-name>
+    </channel>
+    <channel id="CH14">
+        <display-name>CH14</display-name>
+    </channel>
+    <channel id="CH15">
+        <display-name>CH15</display-name>
+    </channel>
+    <channel id="CH16">
+        <display-name>CH16</display-name>
+    </channel>
+    <channel id="CH17">
+        <display-name>CH17</display-name>
+    </channel>
+    <programme start="20240729135500 +0800" stop="20240729170300 +0800" channel="CH1">
+        <title>Judo - Olympic Games Paris 2024 Women's -57 kg | Men's -73 kg Repechage | Semi-finals | Finals</title>
+        <desc>Women's -57 kg Repechage | Men's -73 kg Repechage | Women's -57 kg Semi-finals | Men's -73kg Semi-finals | Women's -57 kg Finals | Men's -73 kg Finals</desc>
+        <sub-title>Women's -57 kg | Men's -73 kg Repechage | Semi-finals | Finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7941431'&amp;EntityType='LinearSchedule'&amp;EntityId='21ac0303-ee36-4520-ab6a-cf7da48ee01b'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729170300 +0800" stop="20240729171000 +0800" channel="CH1">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7941435'&amp;EntityType='LinearSchedule'&amp;EntityId='de2ff8ca-d8cf-42b5-90cf-fbb3af2c1817'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729171000 +0800" stop="20240729174500 +0800" channel="CH1">
+        <title>Rugby Sevens - Olympic Games Paris 2024 Women's Pool Phase</title>
+        <desc>Women's Pool Phase</desc>
+        <sub-title>Women's Pool Phase</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7933458'&amp;EntityType='LinearSchedule'&amp;EntityId='f6be8c9a-4dfd-4988-a236-5ae2582c8e86'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729174500 +0800" stop="20240729175000 +0800" channel="CH1">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7933462'&amp;EntityType='LinearSchedule'&amp;EntityId='5114ad69-bdeb-4faf-b241-b5e7ef075894'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729175000 +0800" stop="20240729205800 +0800" channel="CH1">
+        <title>Rugby Sevens - Olympic Games Paris 2024 Women's Placing 9-12 | Quarter-finals</title>
+        <desc>Women's Placing 9-12 | Women's Quarter-finals</desc>
+        <sub-title>Women's Placing 9-12 | Quarter-finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902779'&amp;EntityType='LinearSchedule'&amp;EntityId='c0238dfe-7922-4061-ac69-532b4d6a5786'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729205800 +0800" stop="20240730065000 +0800" channel="CH1">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch01 - 30 Jul 05:03 - 14:50</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7927362'&amp;EntityType='LinearSchedule'&amp;EntityId='a0141907-03b2-4aa4-b2c3-1d51d85d6ac1'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730065000 +0800" stop="20240730074200 +0800" channel="CH1">
+        <title>Canoe Slalom - Olympic Games Paris 2024 Men's Canoe Single Semifinal | Final</title>
+        <desc>Men's Canoe Single Semifinal | Final</desc>
+        <sub-title>Men's Canoe Single Semifinal | Final</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7938445'&amp;EntityType='LinearSchedule'&amp;EntityId='123a9bbb-4d42-47a9-9670-65e5868c77f4'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730074200 +0800" stop="20240730075500 +0800" channel="CH1">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7938449'&amp;EntityType='LinearSchedule'&amp;EntityId='64272981-e35f-4cd0-8d1a-9911e846df75'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730075500 +0800" stop="20240730120300 +0800" channel="CH1">
+        <title>Judo - Olympic Games Paris 2024 Men -81 kg Elimination Rounds</title>
+        <desc>Men -81 kg Elimination Round of 64 | Men -81 kg Elimination Round of 32 | Men -81 kg Elimination Round of 16 | Men -81 kg Quarterfinals</desc>
+        <sub-title>Men -81 kg Elimination Rounds</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902802'&amp;EntityType='LinearSchedule'&amp;EntityId='6698c81f-2c6f-451f-9a3b-b3b3a81f3856'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730120300 +0800" stop="20240730121500 +0800" channel="CH1">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902810'&amp;EntityType='LinearSchedule'&amp;EntityId='6b82d0fb-2b6f-438f-9e34-a7f5885fc680'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730121500 +0800" stop="20240730124400 +0800" channel="CH1">
+        <title>Judo - Olympic Games Paris 2024 Women's -57 kg &amp; Men's -73 kg Gold Medal Finals</title>
+        <desc>Women's -57 kg Gold Medal Final | Men's -73 kg Gold Medal Final</desc>
+        <sub-title>Women's -57 kg &amp; Men's -73 kg Gold Medal Finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7940072'&amp;EntityType='LinearSchedule'&amp;EntityId='3cc45a4e-09e4-4270-8f27-38e8a80dc61e'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730124400 +0800" stop="20240730125500 +0800" channel="CH1">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7940076'&amp;EntityType='LinearSchedule'&amp;EntityId='015c1b2e-6c63-45f4-8e9e-178e9b2e6a66'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730125500 +0800" stop="20240730171300 +0800" channel="CH1">
+        <title>Canoe Slalom - Olympic Games Paris 2024 Women's Canoe Single &amp; Men's Kayak Single - Heats 1st &amp; 2nd Run</title>
+        <desc>Women's Canoe Single Heats 1st Run | Men's Kayak Single Heats 1st Run | Women's Canoe Single Heats 2nd Run | Men's Kayak Single Heats 2nd Run</desc>
+        <sub-title>Women's Canoe Single &amp; Men's Kayak Single - Heats 1st &amp; 2nd Run</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902817'&amp;EntityType='LinearSchedule'&amp;EntityId='174937aa-2b02-405b-b444-4272672621e2'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729151500 +0800" stop="20240729162800 +0800" channel="CH2">
+        <title>Canoe Slalom - Olympic Games Paris 2024 Men's Canoe Single Final</title>
+        <desc>Men's Canoe Single Final</desc>
+        <sub-title>Men's Canoe Single Final</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7899770'&amp;EntityType='LinearSchedule'&amp;EntityId='def94b26-1204-462a-8620-f0d83f591927'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729162800 +0800" stop="20240729163500 +0800" channel="CH2">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902825'&amp;EntityType='LinearSchedule'&amp;EntityId='f2e4350f-69c7-405c-b990-d62a5831f33c'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729163500 +0800" stop="20240729171300 +0800" channel="CH2">
+        <title>Fencing - Olympic Games Paris 2024 Men's Foil Individual Table of 8</title>
+        <desc>Men's Foil Individual Table of 8</desc>
+        <sub-title>Men's Foil Individual Table of 8</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902830'&amp;EntityType='LinearSchedule'&amp;EntityId='1521f1f6-a987-4520-861a-e013e337d34a'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729171300 +0800" stop="20240729172000 +0800" channel="CH2">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902837'&amp;EntityType='LinearSchedule'&amp;EntityId='6ba6986c-56cd-46fd-bf10-ac2e780341dd'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729172000 +0800" stop="20240729181800 +0800" channel="CH2">
+        <title>Shooting - Olympic Games Paris 2024 Women's 10m Air Rifle Finals</title>
+        <desc>Women's 10m Air Rifle Finals</desc>
+        <sub-title>Women's 10m Air Rifle Finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7933486'&amp;EntityType='LinearSchedule'&amp;EntityId='7f691b24-a8e0-4d71-a85e-08948333b720'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729181800 +0800" stop="20240729182500 +0800" channel="CH2">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7933490'&amp;EntityType='LinearSchedule'&amp;EntityId='70317521-b99a-456a-a3ef-633f35a0b2ee'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729182500 +0800" stop="20240729201800 +0800" channel="CH2">
+        <title>Swimming - Olympic Games Paris 2024 Women's Semi-finals | Men's &amp; Women's Finals - 30 July 2024</title>
+        <desc>Women's Semi-finals | Men's Finals | Women's Finals</desc>
+        <sub-title>Women's Semi-finals | Men's &amp; Women's Finals - 30 July 2024</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902847'&amp;EntityType='LinearSchedule'&amp;EntityId='26d36185-5f43-4d34-8832-f7fa7f6e03a9'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729201800 +0800" stop="20240729203000 +0800" channel="CH2">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7933494'&amp;EntityType='LinearSchedule'&amp;EntityId='75e9633c-65fd-45b4-a741-1b4432b34589'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729203000 +0800" stop="20240729212300 +0800" channel="CH2">
+        <title>Shooting - Olympic Games Paris 2024 Men's 10m Air Rifle Finals</title>
+        <desc>Men's 10m Air Rifle Finals</desc>
+        <sub-title>Men's 10m Air Rifle Finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7933498'&amp;EntityType='LinearSchedule'&amp;EntityId='2bc7e6a4-1bd5-48be-a930-d3f9565b6340'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729212300 +0800" stop="20240730065000 +0800" channel="CH2">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch02 - 30 Jul 05:23 - 14:50</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7927417'&amp;EntityType='LinearSchedule'&amp;EntityId='2b741eeb-449c-413d-b732-b94b56c914d8'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730065000 +0800" stop="20240730083300 +0800" channel="CH2">
+        <title>Handball - Olympic Games Paris 2024 Women's Preliminary Round - GER vs SLO</title>
+        <desc>Women's Preliminary Round - Germany vs Slovenia</desc>
+        <sub-title>Women's Preliminary Round - GER vs SLO</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902882'&amp;EntityType='LinearSchedule'&amp;EntityId='248402b1-8d94-4bd9-88ab-c4071f5fe295'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730083300 +0800" stop="20240730085500 +0800" channel="CH2">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902887'&amp;EntityType='LinearSchedule'&amp;EntityId='708efd56-9ac9-44de-94bc-0005cd4e5a1e'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730085500 +0800" stop="20240730114800 +0800" channel="CH2">
+        <title>Swimming - Olympic Games Paris 2024 Men's &amp; Women's Heats - 30 July 2024</title>
+        <desc>Men's Heats | Women's Heats</desc>
+        <sub-title>Men's &amp; Women's Heats - 30 July 2024</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7941439'&amp;EntityType='LinearSchedule'&amp;EntityId='b61fae6e-6746-453c-9be2-0abd945d934b'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730114800 +0800" stop="20240730115500 +0800" channel="CH2">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902905'&amp;EntityType='LinearSchedule'&amp;EntityId='4fbff2b7-f73e-45c7-9d4d-2032dde536c7'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730115500 +0800" stop="20240730124200 +0800" channel="CH2">
+        <title>Swimming - Olympic Games Paris 2024 Men's &amp; Women's Finals - 30 July 2024</title>
+        <desc>Men's Finals | Women's Finals</desc>
+        <sub-title>Men's &amp; Women's Finals - 30 July 2024</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7938461'&amp;EntityType='LinearSchedule'&amp;EntityId='19470ef0-7768-458e-a106-f018f882627a'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730124200 +0800" stop="20240730125000 +0800" channel="CH2">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7938465'&amp;EntityType='LinearSchedule'&amp;EntityId='70b3724c-e4bf-4ae0-8a02-490749eb3596'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730125000 +0800" stop="20240730150300 +0800" channel="CH2">
+        <title>Football - Olympic Games Paris 2024 Men's Group Stage - DOM vs UZB</title>
+        <desc>Men's Group Stage - Dominican Republic vs Uzbekistan</desc>
+        <sub-title>Men's Group Stage - DOM vs UZB</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902915'&amp;EntityType='LinearSchedule'&amp;EntityId='ad31bbf9-6e96-4ec2-bb29-1f8add363891'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730150300 +0800" stop="20240730151500 +0800" channel="CH2">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902922'&amp;EntityType='LinearSchedule'&amp;EntityId='d8588a76-09cd-430e-8210-1110f7b3e603'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730151500 +0800" stop="20240730170000 +0800" channel="CH2">
+        <title>Sailing - Olympic Games Paris 2024 Women's Skiff Race 1 | Race 2</title>
+        <desc>Women's Skiff Race 1 | Women's Skiff Race 2</desc>
+        <sub-title>Women's Skiff Race 1 | Race 2</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902931'&amp;EntityType='LinearSchedule'&amp;EntityId='1a22e862-8336-42da-857e-b115ecf69322'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729152500 +0800" stop="20240729183300 +0800" channel="CH3">
+        <title>Artistic Gymnastics - Olympic Games Paris 2024 Men's Team Final</title>
+        <desc>Men's Team Final</desc>
+        <sub-title>Men's Team Final</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7899647'&amp;EntityType='LinearSchedule'&amp;EntityId='81ee05fc-5d5c-445e-a9e1-4a282eae9732'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729183300 +0800" stop="20240729184500 +0800" channel="CH3">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7901741'&amp;EntityType='LinearSchedule'&amp;EntityId='c7f83518-4bd9-401f-af87-c857b1d88788'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729184500 +0800" stop="20240729204500 +0800" channel="CH3">
+        <title>Tennis - Olympic Games Paris 2024 Men's &amp; Women's Singles Second Round | Men's &amp; Women's Doubles Second Round</title>
+        <desc>Men's Singles Second Round | Women's Singles Second Round | Men's Doubles Second Round | Women's Doubles Second Round</desc>
+        <sub-title>Men's &amp; Women's Singles Second Round | Men's &amp; Women's Doubles Second Round</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7901767'&amp;EntityType='LinearSchedule'&amp;EntityId='ec3474f6-59b7-4fce-8a04-8a85708b1636'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729204500 +0800" stop="20240730055000 +0800" channel="CH3">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch03 - 30 Jul 04:45 - 13:50</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7927457'&amp;EntityType='LinearSchedule'&amp;EntityId='0d1198f0-1f21-4040-a9ca-51cd6f176398'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730055000 +0800" stop="20240730083300 +0800" channel="CH3">
+        <title>Triathlon - Olympic Games Paris 2024 Men's Individual</title>
+        <desc>Men's Individual</desc>
+        <sub-title>Men's Individual</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7901812'&amp;EntityType='LinearSchedule'&amp;EntityId='83cc6700-fb50-4d65-b6ed-f161e1c951f9'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730083300 +0800" stop="20240730085500 +0800" channel="CH3">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7901829'&amp;EntityType='LinearSchedule'&amp;EntityId='f061250d-1e26-49f7-b0ed-40863601173d'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730085500 +0800" stop="20240730143300 +0800" channel="CH3">
+        <title>Equestrian - Olympic Games Paris 2024 Dressage Grand Prix Team &amp; Individual Qualifier Day 1</title>
+        <desc>Dressage Grand Prix Team &amp; Individual Qualifier Day 1</desc>
+        <sub-title>Dressage Grand Prix Team &amp; Individual Qualifier Day 1</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7936262'&amp;EntityType='LinearSchedule'&amp;EntityId='8d750079-bd12-481e-909d-ffab870328a1'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730143300 +0800" stop="20240730145000 +0800" channel="CH3">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7901860'&amp;EntityType='LinearSchedule'&amp;EntityId='bfee91fd-ab77-471a-8636-5cc6fd5e9955'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730145000 +0800" stop="20240730154300 +0800" channel="CH3">
+        <title>Fencing - Olympic Games Paris 2024 Women's Épée Team Semifinals</title>
+        <desc>Women's Épée Team Semifinals</desc>
+        <sub-title>Women's Épée Team Semifinals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7901872'&amp;EntityType='LinearSchedule'&amp;EntityId='9911b334-8859-4ae6-bfec-74812413d03e'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730154300 +0800" stop="20240730155959 +0800" channel="CH3">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7901888'&amp;EntityType='LinearSchedule'&amp;EntityId='e84bd8ae-821d-4b21-be6e-445bd50473d7'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730160000 +0800" stop="20240730161000 +0800" channel="CH3">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7908978'&amp;EntityType='LinearSchedule'&amp;EntityId='83e37080-15c9-4ef8-a796-a711be41222e'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729150500 +0800" stop="20240729170300 +0800" channel="CH4">
+        <title>Basketball - Olympic Games Paris 2024 Women's Group Phase - Group B - CAN vs FRA</title>
+        <desc>Women's Group Phase - Group B - Canada vs France</desc>
+        <sub-title>Women's Group Phase - Group B - CAN vs FRA</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7899789'&amp;EntityType='LinearSchedule'&amp;EntityId='fce40800-4dca-400d-8677-6f32aec12d4d'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729170300 +0800" stop="20240729171000 +0800" channel="CH4">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7901918'&amp;EntityType='LinearSchedule'&amp;EntityId='d09aebe1-84d5-4746-802c-4cd1310f3aa3'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729171000 +0800" stop="20240729174700 +0800" channel="CH4">
+        <title>Boxing - Olympic Games Paris 2024 Men's 92kg Round of 16</title>
+        <desc>Men's 92kg Round of 16</desc>
+        <sub-title>Men's 92kg Round of 16</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7901936'&amp;EntityType='LinearSchedule'&amp;EntityId='945ac493-a1f7-4373-98aa-3bb8b080cc00'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729174700 +0800" stop="20240729175500 +0800" channel="CH4">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7901947'&amp;EntityType='LinearSchedule'&amp;EntityId='68fcae74-8e79-4319-9b31-f4746baf831a'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729175500 +0800" stop="20240729210300 +0800" channel="CH4">
+        <title>Table Tennis - Olympic Games Paris 2024 Men's &amp; Women's Singles Round of 32</title>
+        <desc>Men's Singles Round of 32 | Women's Singles Round of 32</desc>
+        <sub-title>Men's &amp; Women's Singles Round of 32</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7901970'&amp;EntityType='LinearSchedule'&amp;EntityId='08a0f775-a64a-44cf-9f67-c7e2b8ad8054'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729210300 +0800" stop="20240730072000 +0800" channel="CH4">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch04 - 30 Jul 05:03 - 15:20</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7927502'&amp;EntityType='LinearSchedule'&amp;EntityId='57a892e2-a89f-4cde-8ce8-84c18f9d425d'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730072000 +0800" stop="20240730085300 +0800" channel="CH4">
+        <title>Shooting - Olympic Games Paris 2024 Mixed Team Air Pistol Finals</title>
+        <desc>Mixed Team Air Pistol Finals</desc>
+        <sub-title>Mixed Team Air Pistol Finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902025'&amp;EntityType='LinearSchedule'&amp;EntityId='556cf106-c8ac-4e45-8ec9-8eb89c9003b6'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730085300 +0800" stop="20240730090000 +0800" channel="CH4">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902039'&amp;EntityType='LinearSchedule'&amp;EntityId='1083b563-6a86-48b0-b41f-094b6ece7fd5'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730090000 +0800" stop="20240730094300 +0800" channel="CH4">
+        <title>Fencing - Olympic Games Paris 2024 Women's Sabre Individual Gold Medal Match</title>
+        <desc>Women's Sabre Individual Gold Medal Match</desc>
+        <sub-title>Women's Sabre Individual Gold Medal Match</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7938469'&amp;EntityType='LinearSchedule'&amp;EntityId='d9751e4b-d047-42e5-8fb7-803d3534304a'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730094300 +0800" stop="20240730095500 +0800" channel="CH4">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7938473'&amp;EntityType='LinearSchedule'&amp;EntityId='d9458397-651c-48cd-9356-f76430fc57b0'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730095500 +0800" stop="20240730135800 +0800" channel="CH4">
+        <title>Archery - Olympic Games Paris 2024 Men's &amp; Women's Individual 1/32 &amp; 1/16 Elimination Rounds</title>
+        <desc>Men's &amp; Women's Individual 1/32 &amp; 1/16 Elimination Rounds</desc>
+        <sub-title>Men's &amp; Women's Individual 1/32 &amp; 1/16 Elimination Rounds</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902061'&amp;EntityType='LinearSchedule'&amp;EntityId='3cd45708-adcc-41d0-8564-4e08e8321244'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730135800 +0800" stop="20240730140500 +0800" channel="CH4">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902076'&amp;EntityType='LinearSchedule'&amp;EntityId='2370799e-5c5f-441b-a331-387182e2b427'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730140500 +0800" stop="20240730144200 +0800" channel="CH4">
+        <title>Sailing - Olympic Games Paris 2024 Men's Windsurfing Race 6</title>
+        <desc>Men's Windsurfing Race 6</desc>
+        <sub-title>Men's Windsurfing Race 6</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902097'&amp;EntityType='LinearSchedule'&amp;EntityId='f0f88020-f1ce-4beb-a592-f64fa96c1048'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730144200 +0800" stop="20240730145000 +0800" channel="CH4">
+        <title>Highlights - Olympic Games Paris 2024</title>
+        <desc>Highlights - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902115'&amp;EntityType='LinearSchedule'&amp;EntityId='80a916b2-b551-49b9-bb49-c966ac9381c3'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730145000 +0800" stop="20240730170300 +0800" channel="CH4">
+        <title>Football - Olympic Games Paris 2024 Men's Group Stage - UKR vs ARG</title>
+        <desc>Men's Group Stage - Ukraine vs Argentina</desc>
+        <sub-title>Men's Group Stage - UKR vs ARG</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902135'&amp;EntityType='LinearSchedule'&amp;EntityId='fec4496a-57f4-4c18-a402-ee3922ef4ac5'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729160000 +0800" stop="20240729165500 +0800" channel="CH5">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7933478'&amp;EntityType='LinearSchedule'&amp;EntityId='eba9fd25-60c3-432a-b41a-cf90e12b5ec2'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729165500 +0800" stop="20240729211300 +0800" channel="CH5">
+        <title>Fencing - Olympic Games Paris 2024 Women's Sabre &amp; Men's Foil Individual Finals</title>
+        <desc>Women's Sabre Individual Semifinals | Men's Foil Individual Semifinals | Women's Sabre Individual Bronze Medal Bout | Men's Foil Individual Bronze Medal Bout |             Women's Sabre Individual Gold Medal Bout | Men's Foil Individual Gold Medal Bout</desc>
+        <sub-title>Women's Sabre &amp; Men's Foil Individual Finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7904129'&amp;EntityType='LinearSchedule'&amp;EntityId='7464157c-234e-40ce-91f3-91345affd50f'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729211300 +0800" stop="20240729220000 +0800" channel="CH5">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7904136'&amp;EntityType='LinearSchedule'&amp;EntityId='0d2c52e5-c148-4475-8430-677ea2d7950e'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729220000 +0800" stop="20240730000000 +0800" channel="CH5">
+        <title>Tennis - Olympic Games Paris 2024 Men's &amp; Women's Singles Second Round | Men's &amp; Women's Doubles Second Round</title>
+        <desc>Men's Singles Second Round | Women's Singles Second Round | Men's Doubles Second Round | Women's Doubles Second Round</desc>
+        <sub-title>Men's &amp; Women's Singles Second Round | Men's &amp; Women's Doubles Second Round</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7933482'&amp;EntityType='LinearSchedule'&amp;EntityId='3939d33a-b313-4e21-aa76-e664dd5bc574'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730000000 +0800" stop="20240730040000 +0800" channel="CH5">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch05 - 30 Jul 08:00 - 12:00</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7927530'&amp;EntityType='LinearSchedule'&amp;EntityId='c24fd5bc-f13d-481e-a9c3-a3135b0a3184'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730040000 +0800" stop="20240730082000 +0800" channel="CH5">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7936030'&amp;EntityType='LinearSchedule'&amp;EntityId='41ad71b4-64ee-4341-85bc-973c22404b2d'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730082000 +0800" stop="20240730113300 +0800" channel="CH5">
+        <title>Water Polo - Olympic Games Paris 2024 Men's Preliminary Round - AUS vs SRB | CRO vs ITA</title>
+        <desc>Men's Preliminary Round - Australia vs Serbia | Men's Preliminary Round - Croatia vs Italy</desc>
+        <sub-title>Men's Preliminary Round - AUS vs SRB | CRO vs ITA</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7904196'&amp;EntityType='LinearSchedule'&amp;EntityId='66fb998b-c4df-416f-bc53-ebc46a53b890'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730113300 +0800" stop="20240730122000 +0800" channel="CH5">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7904209'&amp;EntityType='LinearSchedule'&amp;EntityId='0d000347-9448-4988-a078-b9bb11b6fd72'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730122000 +0800" stop="20240730153300 +0800" channel="CH5">
+        <title>Rugby Sevens - Olympic Games Paris 2024 Women's Placing | Semi-finals</title>
+        <desc>Women's Placing | Women's Semi-finals</desc>
+        <sub-title>Women's Placing | Semi-finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7904235'&amp;EntityType='LinearSchedule'&amp;EntityId='03b7b740-802f-4cc4-86ea-b015959692d1'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730153300 +0800" stop="20240730155000 +0800" channel="CH5">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7904242'&amp;EntityType='LinearSchedule'&amp;EntityId='acb1df9e-9530-47ac-b05a-4df1c28b7c58'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730155000 +0800" stop="20240730184800 +0800" channel="CH5">
+        <title>Rugby Sevens - Olympic Games Paris 2024 Women's Placing | Finals</title>
+        <desc>Women's Placing | Women's Finals</desc>
+        <sub-title>Women's Placing | Finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7904250'&amp;EntityType='LinearSchedule'&amp;EntityId='2d2dd691-d09e-4bd7-9754-b027c9b53f00'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729135500 +0800" stop="20240729160300 +0800" channel="CH6">
+        <title>Table Tennis - Olympic Games Paris 2024 Mixed Doubles Semi-finals</title>
+        <desc>Mixed Doubles Semi-finals</desc>
+        <sub-title>Mixed Doubles Semi-finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7898551'&amp;EntityType='LinearSchedule'&amp;EntityId='e9888785-5f32-4d77-a0c5-99dd9b48d6d0'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729160300 +0800" stop="20240729165000 +0800" channel="CH6">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7901873'&amp;EntityType='LinearSchedule'&amp;EntityId='070317c8-a076-49d1-8c6b-2a024798654c'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729165000 +0800" stop="20240730023300 +0800" channel="CH6">
+        <title>Surfing - Olympic Games Paris 2024 Men's &amp; Women's Round 3 Heats</title>
+        <desc>Men's &amp; Women's Round 3 Heats</desc>
+        <sub-title>Men's &amp; Women's Round 3 Heats</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7901942'&amp;EntityType='LinearSchedule'&amp;EntityId='5d93c7a9-b693-4ddb-82cd-0ad734fa5734'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730023300 +0800" stop="20240730040000 +0800" channel="CH6">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch06 - 30 Jul 10:33 - 12:00</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7927558'&amp;EntityType='LinearSchedule'&amp;EntityId='835a4dc8-db2f-44da-8534-338583c51454'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730040000 +0800" stop="20240730065000 +0800" channel="CH6">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7936270'&amp;EntityType='LinearSchedule'&amp;EntityId='3cc4640e-9424-4d01-9738-2c5de991553a'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730065000 +0800" stop="20240730110300 +0800" channel="CH6">
+        <title>Beach Volleyball - Olympic Games Paris 2024 Men's &amp; Women's Preliminary Round</title>
+        <desc>Men's Preliminary Round | Women's Preliminary Round</desc>
+        <sub-title>Men's &amp; Women's Preliminary Round</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7901990'&amp;EntityType='LinearSchedule'&amp;EntityId='e3acbaba-37bb-4d4b-8330-e5d37b5b93fb'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730110300 +0800" stop="20240730115000 +0800" channel="CH6">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902006'&amp;EntityType='LinearSchedule'&amp;EntityId='58aa8674-388e-4076-ba51-5e18388c9114'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730115000 +0800" stop="20240730153300 +0800" channel="CH6">
+        <title>Handball - Olympic Games Paris 2024 Women's Preliminary Round - NED vs ESP | HUN vs ANG</title>
+        <desc>Women's Preliminary Round - Netherlands vs Spain | Hungary vs Angola</desc>
+        <sub-title>Women's Preliminary Round - NED vs ESP | HUN vs ANG</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902060'&amp;EntityType='LinearSchedule'&amp;EntityId='a5b671d3-7ed8-4410-be56-8a1778ad9f13'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730153300 +0800" stop="20240730155959 +0800" channel="CH6">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902075'&amp;EntityType='LinearSchedule'&amp;EntityId='42f1c1e4-12a0-47a1-bbd3-23976885310d'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730160000 +0800" stop="20240730165000 +0800" channel="CH6">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7940107'&amp;EntityType='LinearSchedule'&amp;EntityId='e5aa503b-9e52-4002-bc29-f8d04ef202af'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729160000 +0800" stop="20240729162000 +0800" channel="CH7">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7937442'&amp;EntityType='LinearSchedule'&amp;EntityId='ffe99810-370d-439d-a0ca-47a71bce432e'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729162000 +0800" stop="20240729193300 +0800" channel="CH7">
+        <title>Water Polo - Olympic Games Paris 2024 Women's Preliminary Round - CHN vs NED | HUN vs CAN</title>
+        <desc>Women's Preliminary Round - China vs Netherlands | Women's Preliminary Round - Hungary vs Canada</desc>
+        <sub-title>Women's Preliminary Round - CHN vs NED | HUN vs CAN</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902158'&amp;EntityType='LinearSchedule'&amp;EntityId='d4940b9f-ef0b-4f88-831d-3df52d940116'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729193300 +0800" stop="20240729194500 +0800" channel="CH7">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902171'&amp;EntityType='LinearSchedule'&amp;EntityId='5e7baa97-08e2-4c41-8ce2-7c685b6f9cce'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729194500 +0800" stop="20240729214500 +0800" channel="CH7">
+        <title>Tennis - Olympic Games Paris 2024 Men's &amp; Women's Singles Second Round | Men's &amp; Women's Doubles Second Round</title>
+        <desc>Men's Singles Second Round | Women's Singles Second Round | Men's Doubles Second Round | Women's Doubles Second Round</desc>
+        <sub-title>Men's &amp; Women's Singles Second Round | Men's &amp; Women's Doubles Second Round</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902194'&amp;EntityType='LinearSchedule'&amp;EntityId='255fc5fc-de38-49c4-986c-8350a0a5f862'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729214500 +0800" stop="20240730040000 +0800" channel="CH7">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch07 - 30 Jul 05:45 - 12:00</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7927586'&amp;EntityType='LinearSchedule'&amp;EntityId='a3520311-4e63-4da7-a569-d6558cc8d76d'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730040000 +0800" stop="20240730085000 +0800" channel="CH7">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902282'&amp;EntityType='LinearSchedule'&amp;EntityId='4b47cce9-4c8f-45f2-8a00-bca000b30bfd'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730085000 +0800" stop="20240730131800 +0800" channel="CH7">
+        <title>Basketball - Olympic Games Paris 2024 Men's Group Phase - Group A - ESP vs GRE | CAN vs AUS</title>
+        <desc>Men's Group Phase - Group A - Spain vs Greece | Men's Group Phase - Group A - Canada vs Australia</desc>
+        <sub-title>Men's Group Phase - Group A - ESP vs GRE | CAN vs AUS</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902332'&amp;EntityType='LinearSchedule'&amp;EntityId='449c388f-4d4d-4203-8cc7-0d9c22d710a4'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730131800 +0800" stop="20240730135500 +0800" channel="CH7">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902346'&amp;EntityType='LinearSchedule'&amp;EntityId='b3a8a588-aa9d-4371-af53-94a920398c9e'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730135500 +0800" stop="20240730170300 +0800" channel="CH7">
+        <title>Judo - Olympic Games Paris 2024 Men -81 kg &amp; Women -63 kg Repechage, Semifinals &amp; Finals</title>
+        <desc>Men -81 kg Repechage | Men -81 kg Semifinals | Women -63 kg Repechage | Women -63 kg Semifinals | Men -81 kg Contest for Bronze Medal A | Men -81 kg Contest for Bronze Medal B | Men -81 kg Final | Women -63 kg Contest for Bronze Medal A | Women -63 kg Contest for Bronze Medal B | Women -63 kg Final</desc>
+        <sub-title>Men -81 kg &amp; Women -63 kg Repechage, Semifinals &amp; Finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902399'&amp;EntityType='LinearSchedule'&amp;EntityId='4ccc5cb3-6188-46b5-817e-c8ee18565d79'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729125000 +0800" stop="20240729160300 +0800" channel="CH8">
+        <title>Beach Volleyball - Olympic Games Paris 2024 Women's &amp; Men's Preliminary Round</title>
+        <desc>Women's Preliminary Round | Men's Preliminary Round</desc>
+        <sub-title>Women's &amp; Men's Preliminary Round</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7909858'&amp;EntityType='LinearSchedule'&amp;EntityId='95997c40-c42f-40c1-820c-7c54cb45f7c4'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729160300 +0800" stop="20240729172500 +0800" channel="CH8">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7909872'&amp;EntityType='LinearSchedule'&amp;EntityId='ff1e254f-57da-4b6e-82fb-bd01ea9a9ed2'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729172500 +0800" stop="20240729210300 +0800" channel="CH8">
+        <title>Badminton - Olympic Games Paris 2024 Mixed Doubles | Men's Doubles | Women's Singles | Women's Doubles | Men's Singles Group Play Stage</title>
+        <desc>Mixed Doubles Group Play Stage | Men's Doubles Group Play Stage | Women's Singles Group Play Stage | Women's Doubles Group Play Stage | Men's Singles Group Play Stage</desc>
+        <sub-title>Mixed Doubles | Men's Doubles | Women's Singles | Women's Doubles | Men's Singles Group Play Stage</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7942730'&amp;EntityType='LinearSchedule'&amp;EntityId='fde5faa5-968e-44c8-9ea0-c51ae369c7b8'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729210300 +0800" stop="20240730075500 +0800" channel="CH8">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7942734'&amp;EntityType='LinearSchedule'&amp;EntityId='a7f252ec-79b8-472b-b382-d6c0c0743e65'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730075500 +0800" stop="20240730100300 +0800" channel="CH8">
+        <title>Table Tennis - Olympic Games Paris 2024 Men's &amp; Women's Singles Round of 32</title>
+        <desc>Men's Singles Round of 32 | Women's Singles Round of 32</desc>
+        <sub-title>Men's &amp; Women's Singles Round of 32</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7941440'&amp;EntityType='LinearSchedule'&amp;EntityId='7a87fc84-b5ec-424d-80ef-c4b835a9ade7'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730100300 +0800" stop="20240730112500 +0800" channel="CH8">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7941446'&amp;EntityType='LinearSchedule'&amp;EntityId='e016aa5d-8bed-4f15-9e7a-4469a0ad6ff0'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730112500 +0800" stop="20240730140300 +0800" channel="CH8">
+        <title>Table Tennis - Olympic Games Paris 2024 Mixed Doubles Finals</title>
+        <desc>Mixed Doubles Finals</desc>
+        <sub-title>Mixed Doubles Finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910055'&amp;EntityType='LinearSchedule'&amp;EntityId='9dbb5b75-ce2c-4f60-8b4a-216a62feb77e'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730140300 +0800" stop="20240730145000 +0800" channel="CH8">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910068'&amp;EntityType='LinearSchedule'&amp;EntityId='6699616a-ae7b-4541-90be-54454f65cfa9'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730145000 +0800" stop="20240730194800 +0800" channel="CH8">
+        <title>Hockey - Olympic Games Paris 2024 Men's Preliminary Round - ARG vs NZL | AUS vs BEL</title>
+        <desc>Men's Preliminary Round - Argentina vs New Zealand | Men's Preliminary Round - Australia vs Belgium</desc>
+        <sub-title>Men's Preliminary Round - ARG vs NZL | AUS vs BEL</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910128'&amp;EntityType='LinearSchedule'&amp;EntityId='0230efc6-8069-49e6-8659-fabc64378bc6'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729160000 +0800" stop="20240729172600 +0800" channel="CH9">
+        <title>Sailing - Olympic Games Paris 2024 Women's Skiff Races 4 &amp; 5</title>
+        <desc>Women's Skiff Race 4 | Race 5</desc>
+        <sub-title>Women's Skiff Races 4 &amp; 5</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7942756'&amp;EntityType='LinearSchedule'&amp;EntityId='1730373a-4b25-42bd-852b-80e707166096'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729172600 +0800" stop="20240729173500 +0800" channel="CH9">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7942760'&amp;EntityType='LinearSchedule'&amp;EntityId='0b8ff0f3-16cf-4ea4-8045-092d04165fce'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729173500 +0800" stop="20240729193300 +0800" channel="CH9">
+        <title>Hockey - Olympic Games Paris 2024 Women's Preliminary Round - GER vs NED</title>
+        <desc>Women's Preliminary Round - Germany vs Netherlands</desc>
+        <sub-title>Women's Preliminary Round - GER vs NED</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7909896'&amp;EntityType='LinearSchedule'&amp;EntityId='ce348790-ecdf-4d08-9638-8e336d6c0cc9'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729193300 +0800" stop="20240730040000 +0800" channel="CH9">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch09 - 30 Jul 03:33 - 12:00</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7930899'&amp;EntityType='LinearSchedule'&amp;EntityId='9bca5e0b-13f2-498e-8290-5227276c8c66'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730040000 +0800" stop="20240730062500 +0800" channel="CH9">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910014'&amp;EntityType='LinearSchedule'&amp;EntityId='dc8dbbd4-c0d7-4c38-b281-08c5957f15d5'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730062500 +0800" stop="20240730100300 +0800" channel="CH9">
+        <title>Badminton - Olympic Games Paris 2024 Women's Singles | Men's Doubles | Women's Doubles | Men's Singles Group Play Stage</title>
+        <desc>Women's Singles Group Play Stage | Men's Doubles Group Play Stage | Women's Doubles Group Play Stage | Men's Singles Group Play Stage</desc>
+        <sub-title>Women's Singles | Men's Doubles | Women's Doubles | Men's Singles Group Play Stage</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910032'&amp;EntityType='LinearSchedule'&amp;EntityId='0a1abde6-3adc-4e0e-8ab0-3f50108ef494'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730100300 +0800" stop="20240730115500 +0800" channel="CH9">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910047'&amp;EntityType='LinearSchedule'&amp;EntityId='4790f559-9a39-4fe0-b9b7-df9313cc6fe0'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730115500 +0800" stop="20240730153300 +0800" channel="CH9">
+        <title>Badminton - Olympic Games Paris 2024 Men's Doubles | Women's Doubles | Women's Singles | Men's Singles Group Play Stage</title>
+        <desc>Men's Doubles Group Play Stage | Women's Doubles Group Play Stage | Women's Singles Group Play Stage | Men's Singles Group Play Stage</desc>
+        <sub-title>Men's Doubles | Women's Doubles | Women's Singles | Men's Singles Group Play Stage</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910093'&amp;EntityType='LinearSchedule'&amp;EntityId='99840a9e-057a-496d-8232-c5eedb659502'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730153300 +0800" stop="20240730154500 +0800" channel="CH9">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910105'&amp;EntityType='LinearSchedule'&amp;EntityId='5cad1062-86e9-42fb-9c52-0e9bf08b8e5b'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730154500 +0800" stop="20240730164300 +0800" channel="CH9">
+        <title>Fencing - Olympic Games Paris 2024 Women's Épée Team Semi-finals</title>
+        <desc>Women's Épée Team Semi-finals</desc>
+        <sub-title>Women's Épée Team Semi-finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910125'&amp;EntityType='LinearSchedule'&amp;EntityId='4efc5b62-fe8e-4641-bf26-3233f199e377'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729160000 +0800" stop="20240729165500 +0800" channel="CH10">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7936274'&amp;EntityType='LinearSchedule'&amp;EntityId='b7f24cae-1f6e-4ae7-9433-58ae58fe42e7'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729165500 +0800" stop="20240729210300 +0800" channel="CH10">
+        <title>Tennis - Olympic Games Paris 2024 Men's &amp; Women's Singles Second Round</title>
+        <desc>Men's Singles Second Round | Women's Singles Second Round</desc>
+        <sub-title>Men's &amp; Women's Singles Second Round</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910690'&amp;EntityType='LinearSchedule'&amp;EntityId='db744032-5377-4b73-b086-e309792fef9f'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729210300 +0800" stop="20240730040000 +0800" channel="CH10">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch10 - 30 Jul 05:03 - 12:00</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7931164'&amp;EntityType='LinearSchedule'&amp;EntityId='df2041c2-fb50-406d-adad-99c2f971d8bc'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730040000 +0800" stop="20240730065000 +0800" channel="CH10">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910723'&amp;EntityType='LinearSchedule'&amp;EntityId='274548b0-38c0-4add-b9a2-798e06b52dad'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730065000 +0800" stop="20240730093300 +0800" channel="CH10">
+        <title>Volleyball - Olympic Games Paris 2024 Men's Preliminary Round - ITA vs EGY</title>
+        <desc>Men's Preliminary Round - Italy vs Egypt</desc>
+        <sub-title>Men's Preliminary Round - ITA vs EGY</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910734'&amp;EntityType='LinearSchedule'&amp;EntityId='32ecd50f-a08e-488b-8f0a-e8a9f2a59d12'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730093300 +0800" stop="20240730095500 +0800" channel="CH10">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910741'&amp;EntityType='LinearSchedule'&amp;EntityId='9bcde43b-8764-4128-8188-4070e3ab489b'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730095500 +0800" stop="20240730150300 +0800" channel="CH10">
+        <title>Tennis - Olympic Games Paris 2024 Men's Singles Second Round | Women's Singles Third Round</title>
+        <desc>Men's Singles Second Round | Women's Singles Third Round</desc>
+        <sub-title>Men's Singles Second Round | Women's Singles Third Round</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910754'&amp;EntityType='LinearSchedule'&amp;EntityId='ff7e5bc4-7807-4130-8309-782111a85f0f'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730150300 +0800" stop="20240730154000 +0800" channel="CH10">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910762'&amp;EntityType='LinearSchedule'&amp;EntityId='fed8e746-9c3a-4c06-a7f1-e86f069ce2f2'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730154000 +0800" stop="20240730182800 +0800" channel="CH10">
+        <title>Archery - Olympic Games Paris 2024 Men's &amp; Women's Individual 1/32 &amp; 1/16 Elimination Rounds</title>
+        <desc>Men's &amp; Women's Individual 1/32 &amp; 1/16 Elimination Rounds</desc>
+        <sub-title>Men's &amp; Women's Individual 1/32 &amp; 1/16 Elimination Rounds</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910786'&amp;EntityType='LinearSchedule'&amp;EntityId='30c6fa0c-37b3-4cb8-9c3b-9bf785687638'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729152000 +0800" stop="20240729172000 +0800" channel="CH11">
+        <title>Tennis - Olympic Games Paris 2024 Men's &amp; Women's Singles Second Round | Doubles Second Round | Mixed Doubles First Round</title>
+        <desc>Men's Singles Second Round | Women's Singles Second Round | Men's Doubles Second Round | Women's Doubles Second Round Mixed Doubles First Round</desc>
+        <sub-title>Men's &amp; Women's Singles Second Round | Doubles Second Round | Mixed Doubles First Round</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7942722'&amp;EntityType='LinearSchedule'&amp;EntityId='04b01e95-e90a-4f6b-a405-7f9c4c37c91e'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729172000 +0800" stop="20240729175000 +0800" channel="CH11">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7942726'&amp;EntityType='LinearSchedule'&amp;EntityId='4e224a04-2201-4332-9d22-827bed7aba38'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729175000 +0800" stop="20240729210300 +0800" channel="CH11">
+        <title>Beach Volleyball - Olympic Games Paris 2024 Men's &amp; Women's Preliminary Round</title>
+        <desc>Men's Preliminary Round | Women's Preliminary Round</desc>
+        <sub-title>Men's &amp; Women's Preliminary Round</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902846'&amp;EntityType='LinearSchedule'&amp;EntityId='f534b33e-9222-4ef2-8bfc-d74c808ea913'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729210300 +0800" stop="20240730040000 +0800" channel="CH11">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch11 - 30 Jul 05:03 - 12:00</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7930400'&amp;EntityType='LinearSchedule'&amp;EntityId='00b6c05e-2cb9-476a-9c91-3a0ef6025606'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730040000 +0800" stop="20240730100000 +0800" channel="CH11">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902879'&amp;EntityType='LinearSchedule'&amp;EntityId='b1f44e5f-28ad-4fbe-b335-f8f3e8c98bc6'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730100000 +0800" stop="20240730124100 +0800" channel="CH11">
+        <title>Sailing - Olympic Games Paris 2024 Men's &amp; Women's Windsurfing (5 Races)</title>
+        <desc>Men's Windsurfing (5 Races) | Women's Windsurfing (5 Races)</desc>
+        <sub-title>Men's &amp; Women's Windsurfing (5 Races)</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902917'&amp;EntityType='LinearSchedule'&amp;EntityId='52c2a528-c467-490f-a6bb-5f83b3ad4507'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730124100 +0800" stop="20240730132000 +0800" channel="CH11">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902925'&amp;EntityType='LinearSchedule'&amp;EntityId='77588e60-7c63-4b4b-80ea-d254e3aca9d9'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730132000 +0800" stop="20240730150800 +0800" channel="CH11">
+        <title>Shooting - Olympic Games Paris 2024 Men's Trap Finals</title>
+        <desc>Men's Trap Finals</desc>
+        <sub-title>Men's Trap Finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902943'&amp;EntityType='LinearSchedule'&amp;EntityId='1cc9f237-8537-4297-800d-0e6e210cbc0f'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730150800 +0800" stop="20240730152500 +0800" channel="CH11">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902947'&amp;EntityType='LinearSchedule'&amp;EntityId='4ebcd205-8579-4aa4-8833-7eba4198c517'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730152500 +0800" stop="20240730173300 +0800" channel="CH11">
+        <title>Basketball 3x3 - Olympic Games Paris 2024 Men's &amp; Women's Pool Round</title>
+        <desc>Men's &amp; Women's Pool Round</desc>
+        <sub-title>Men's &amp; Women's Pool Round</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7902959'&amp;EntityType='LinearSchedule'&amp;EntityId='54d8fc24-78a3-4cca-b55a-b4c5828d0a23'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729160000 +0800" stop="20240729180000 +0800" channel="CH12">
+        <title>Tennis - Olympic Games Paris 2024 Men's &amp; Women's Singles Second Round | Doubles Second Round | Mixed Doubles First Round</title>
+        <desc>Men's Singles Second Round | Women's Singles Second Round | Men's Doubles Second Round | Women's Doubles Second Round | Mixed Doubles First Round</desc>
+        <sub-title>Men's &amp; Women's Singles Second Round | Doubles Second Round | Mixed Doubles First Round</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911532'&amp;EntityType='LinearSchedule'&amp;EntityId='05f185a0-7390-499b-8e89-a20479de186d'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729180000 +0800" stop="20240729185000 +0800" channel="CH12">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911536'&amp;EntityType='LinearSchedule'&amp;EntityId='0719ba46-e003-4a79-98d5-c873a0597d0f'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729185000 +0800" stop="20240729204800 +0800" channel="CH12">
+        <title>Basketball - Olympic Games Paris 2024 Women's Group Phase - Group C - USA vs JPN</title>
+        <desc>Women's Group Phase - Group C - United States vs Japan</desc>
+        <sub-title>Women's Group Phase - Group C - USA vs JPN</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911562'&amp;EntityType='LinearSchedule'&amp;EntityId='17a1b5b1-efb9-4b7d-ac7c-8d29c6d02a46'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729204800 +0800" stop="20240730040000 +0800" channel="CH12">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch12 - 30 Jul 04:48 - 12:00</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7930718'&amp;EntityType='LinearSchedule'&amp;EntityId='3b8046b0-b3b3-421a-88aa-65ca1a0296b3'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730040000 +0800" stop="20240730072500 +0800" channel="CH12">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911596'&amp;EntityType='LinearSchedule'&amp;EntityId='5613c8bd-5f78-4b85-b348-41026066af00'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730072500 +0800" stop="20240730095300 +0800" channel="CH12">
+        <title>Rowing - Olympic Games Paris 2024 Women's &amp; Men’s Single Sculls Quarter-finals | Double Sculls Semi-finals | Four Repechages</title>
+        <desc>Women's Single Sculls Quarter-finals | Men's Single Sculls Quarter-finals | Women's Double Sculls Semi-finals | Men's Double Sculls Semi-finals | Women's Four Repechages | Men's Four Repechages</desc>
+        <sub-title>Women's &amp; Men’s Single Sculls Quarter-finals | Double Sculls Semi-finals | Four Repechages</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911600'&amp;EntityType='LinearSchedule'&amp;EntityId='c73bddde-b40b-4345-81a5-035d47ca4694'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730095300 +0800" stop="20240730112000 +0800" channel="CH12">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911608'&amp;EntityType='LinearSchedule'&amp;EntityId='7ae33c06-6318-48c0-a571-489624d7e639'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730112000 +0800" stop="20240730143300 +0800" channel="CH12">
+        <title>Cycling BMX Freestyle - Olympic Games Paris 2024 Women's &amp; Men's Park Qualification</title>
+        <desc>Women's Park Qualification | Men's Park Qualification</desc>
+        <sub-title>Women's &amp; Men's Park Qualification</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911633'&amp;EntityType='LinearSchedule'&amp;EntityId='59222b10-31bc-4c15-b880-cc4bb27b9459'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730143300 +0800" stop="20240730150500 +0800" channel="CH12">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911672'&amp;EntityType='LinearSchedule'&amp;EntityId='a6b5f40c-2a44-4fe1-b913-1b3c03d2f3d4'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730150500 +0800" stop="20240730170300 +0800" channel="CH12">
+        <title>Basketball - Olympic Games Paris 2024 Men's Group Phase - Group B - JPN vs FRA</title>
+        <desc>Men's Group Phase - Group B - Japan vs France</desc>
+        <sub-title>Men's Group Phase - Group B - JPN vs FRA</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911692'&amp;EntityType='LinearSchedule'&amp;EntityId='f73e5e12-2f4d-4a3f-9a0c-68cced6177ab'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729160000 +0800" stop="20240729165000 +0800" channel="CH13">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7936263'&amp;EntityType='LinearSchedule'&amp;EntityId='7ca6bba8-3491-4563-af79-78ecacc56800'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729165000 +0800" stop="20240729203300 +0800" channel="CH13">
+        <title>Handball - Olympic Games Paris 2024 Men's Preliminary Round - FRA vs NOR | ARG vs HUN</title>
+        <desc>Men's Preliminary Round - France vs Norway | Argentina vs Hungary</desc>
+        <sub-title>Men's Preliminary Round - FRA vs NOR | ARG vs HUN</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7909933'&amp;EntityType='LinearSchedule'&amp;EntityId='6941652f-932c-49f8-b210-5051aeea4c78'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729203300 +0800" stop="20240730040000 +0800" channel="CH13">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch13 - 30 Jul 04:33 - 12:00</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7930411'&amp;EntityType='LinearSchedule'&amp;EntityId='70ecca9e-fabf-4d7d-a12b-60a98faa82a1'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730040000 +0800" stop="20240730085000 +0800" channel="CH13">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910022'&amp;EntityType='LinearSchedule'&amp;EntityId='a626bd70-ebc3-44a4-b9fa-8721c9e0e7db'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730085000 +0800" stop="20240730103300 +0800" channel="CH13">
+        <title>Handball - Olympic Games Paris 2024 Women's Preliminary Round - NOR vs KOR</title>
+        <desc>Women's Preliminary Round - Norway vs South Korea</desc>
+        <sub-title>Women's Preliminary Round - NOR vs KOR</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910078'&amp;EntityType='LinearSchedule'&amp;EntityId='0b424d8d-ba24-4a5a-a2a3-1f8285956732'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730103300 +0800" stop="20240730110500 +0800" channel="CH13">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910089'&amp;EntityType='LinearSchedule'&amp;EntityId='4cdffc15-34ae-4b6b-b00b-658a1d9ac3fd'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730110500 +0800" stop="20240730130300 +0800" channel="CH13">
+        <title>Hockey - Olympic Games Paris 2024 Men's Preliminary Round - IRL vs IND</title>
+        <desc>Men's Preliminary Round - Ireland vs India</desc>
+        <sub-title>Men's Preliminary Round - IRL vs IND</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910136'&amp;EntityType='LinearSchedule'&amp;EntityId='7d7e1f28-e171-480c-94de-fdbc0bfa1518'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730130300 +0800" stop="20240730132500 +0800" channel="CH13">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910148'&amp;EntityType='LinearSchedule'&amp;EntityId='0957f252-48c7-48d1-b60e-9687cf2cfacc'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730132500 +0800" stop="20240730161300 +0800" channel="CH13">
+        <title>Boxing - Olympic Games Paris 2024 Men's 51kg | 80kg | Women's 57kg Round of 32 | Women's 54kg Round of 16</title>
+        <desc>Men's 51kg Round of 32 | Men's 80kg Round of 32 | Women's 54kg Round of 16 | Women's 57kg Round of 32</desc>
+        <sub-title>Men's 51kg | 80kg | Women's 57kg Round of 32 | Women's 54kg Round of 16</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910194'&amp;EntityType='LinearSchedule'&amp;EntityId='433684f4-5f42-4b07-9b6f-781bdb1fb8ef'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729145000 +0800" stop="20240729173300 +0800" channel="CH14">
+        <title>Volleyball - Olympic Games Paris 2024 Women's Preliminary Round - USA vs CHN</title>
+        <desc>Women's Preliminary Round - United States vs China</desc>
+        <sub-title>Women's Preliminary Round - USA vs CHN</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910806'&amp;EntityType='LinearSchedule'&amp;EntityId='603cc45a-3134-4598-995f-f3bf8f4e431e'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729173300 +0800" stop="20240729185000 +0800" channel="CH14">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910825'&amp;EntityType='LinearSchedule'&amp;EntityId='42a62ebf-955b-43d7-891f-b3c051cb3062'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729185000 +0800" stop="20240729213300 +0800" channel="CH14">
+        <title>Volleyball - Olympic Games Paris 2024 Women's Preliminary Round - FRA vs SRB</title>
+        <desc>Women's Preliminary Round - France vs Serbia</desc>
+        <sub-title>Women's Preliminary Round - FRA vs SRB</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910852'&amp;EntityType='LinearSchedule'&amp;EntityId='be7b5359-94a7-49c0-938b-b749ec50fc3a'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729213300 +0800" stop="20240730040000 +0800" channel="CH14">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch14 - 30 Jul 05:33 - 12:00</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7930676'&amp;EntityType='LinearSchedule'&amp;EntityId='368ef131-4f88-49a3-8807-d3c79beb8da3'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730040000 +0800" stop="20240730075000 +0800" channel="CH14">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910864'&amp;EntityType='LinearSchedule'&amp;EntityId='38fcc50e-ee84-41cc-a4d6-5492387934d4'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730075000 +0800" stop="20240730123300 +0800" channel="CH14">
+        <title>Hockey - Olympic Games Paris 2024 Men's Preliminary Round - ESP vs FRA | GBR vs NED</title>
+        <desc>Men's Preliminary Round - Spain vs France | Men's Preliminary Round - Great Britain vs Netherlands</desc>
+        <sub-title>Men's Preliminary Round - ESP vs FRA | GBR vs NED</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910872'&amp;EntityType='LinearSchedule'&amp;EntityId='ea91c0ca-cffb-45ca-9be8-3cc3803858ba'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730123300 +0800" stop="20240730125000 +0800" channel="CH14">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910880'&amp;EntityType='LinearSchedule'&amp;EntityId='9ed6c8f3-ccf5-4698-a9f5-a2400cd12589'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730125000 +0800" stop="20240730160300 +0800" channel="CH14">
+        <title>Water Polo - Olympic Games Paris 2024 Men's Preliminary Round - JPN vs FRA | USA vs ROU</title>
+        <desc>Men's Preliminary Round - Japan vs France | Men's Preliminary Round - United States vs Romania</desc>
+        <sub-title>Men's Preliminary Round - JPN vs FRA | USA vs ROU</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910888'&amp;EntityType='LinearSchedule'&amp;EntityId='a5b63a9e-f516-49d0-9146-bb6e6f2b107b'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729152000 +0800" stop="20240729171800 +0800" channel="CH15">
+        <title>Hockey - Olympic Games Paris 2024 Women's Preliminary Round - RSA vs ARG</title>
+        <desc>Women's Preliminary Round - South Africa vs Argentina</desc>
+        <sub-title>Women's Preliminary Round - RSA vs ARG</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911383'&amp;EntityType='LinearSchedule'&amp;EntityId='ef46690b-4abc-4f32-9947-f2f1d26c7046'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729171800 +0800" stop="20240729180500 +0800" channel="CH15">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911392'&amp;EntityType='LinearSchedule'&amp;EntityId='5aa12e41-2fe6-4484-b13f-5fbca075d336'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729180500 +0800" stop="20240729203300 +0800" channel="CH15">
+        <title>Hockey - Olympic Games Paris 2024 Women's Preliminary Round - FRA vs BEL</title>
+        <desc>Women's Preliminary Round - France vs Belgium</desc>
+        <sub-title>Women's Preliminary Round - FRA vs BEL</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911418'&amp;EntityType='LinearSchedule'&amp;EntityId='b40ca6d4-360f-4332-9e73-5681de3ff99e'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729203300 +0800" stop="20240730040000 +0800" channel="CH15">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch15 - 30 Jul 04:33 - 12:00</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7930983'&amp;EntityType='LinearSchedule'&amp;EntityId='b92b33db-7a81-46b4-b1d8-05c6e38c6df6'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730040000 +0800" stop="20240730082000 +0800" channel="CH15">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911447'&amp;EntityType='LinearSchedule'&amp;EntityId='eb496d5f-3870-4f25-9bbd-efdfd5ab0696'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730082000 +0800" stop="20240730101800 +0800" channel="CH15">
+        <title>Hockey - Olympic Games Paris 2024 Men's Preliminary Round - RSA vs GER</title>
+        <desc>Men's Preliminary Round - South Africa vs Germany</desc>
+        <sub-title>Men's Preliminary Round - RSA vs GER</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911470'&amp;EntityType='LinearSchedule'&amp;EntityId='9aa1e712-7a0d-4292-ab5b-a607861b4502'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730101800 +0800" stop="20240730105000 +0800" channel="CH15">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911476'&amp;EntityType='LinearSchedule'&amp;EntityId='f7d756fc-1bd1-48d9-a050-1cf3083df516'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730105000 +0800" stop="20240730133300 +0800" channel="CH15">
+        <title>Volleyball - Olympic Games Paris 2024 Men's Preliminary Round - USA vs GER</title>
+        <desc>Men's Preliminary Round - United States vs Germany</desc>
+        <sub-title>Men's Preliminary Round - USA vs GER</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911496'&amp;EntityType='LinearSchedule'&amp;EntityId='15fb78b2-3669-4205-86b4-ab561319e498'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730133300 +0800" stop="20240730134000 +0800" channel="CH15">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911505'&amp;EntityType='LinearSchedule'&amp;EntityId='a06d8fb8-c178-4604-9448-1bca412b2ef7'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730134000 +0800" stop="20240730143800 +0800" channel="CH15">
+        <title>Fencing - Olympic Games Paris 2024 Women's Épée Team Table of 8</title>
+        <desc>Women's Épée Team Table of 8</desc>
+        <sub-title>Women's Épée Team Table of 8</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911516'&amp;EntityType='LinearSchedule'&amp;EntityId='fc6d204a-ac65-4034-b2ec-edaf23f9e52b'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730143800 +0800" stop="20240730145000 +0800" channel="CH15">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911524'&amp;EntityType='LinearSchedule'&amp;EntityId='0c499b7d-b4c0-433c-b519-485f90b759e0'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730145000 +0800" stop="20240730173300 +0800" channel="CH15">
+        <title>Volleyball - Olympic Games Paris 2024 Men's Preliminary Round - SLO vs SRB</title>
+        <desc>Men's Preliminary Round - Slovenia vs Serbia</desc>
+        <sub-title>Men's Preliminary Round - SLO vs SRB</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911528'&amp;EntityType='LinearSchedule'&amp;EntityId='db3af5d4-f8ac-436e-8f72-0438a35dbfd1'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729145500 +0800" stop="20240729170300 +0800" channel="CH16">
+        <title>Skateboarding - Olympic Games Paris 2024 Men's Street Finals</title>
+        <desc>Men's Street Finals</desc>
+        <sub-title>Men's Street Finals</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7942772'&amp;EntityType='LinearSchedule'&amp;EntityId='d13fadc8-dbef-44bf-9af0-959bbf36ce9c'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729170300 +0800" stop="20240729175500 +0800" channel="CH16">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7942776'&amp;EntityType='LinearSchedule'&amp;EntityId='2f085b88-cf35-4301-afa1-02744a1e3f73'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729175500 +0800" stop="20240729201300 +0800" channel="CH16">
+        <title>Boxing - Olympic Games Paris 2024 Women's 60kg | Men's 63.5kg | +92kg Round of 16</title>
+        <desc>Women's 60kg Round of 16 | Men's 63.5kg Round of 16 | Men's +92kg Round of 16</desc>
+        <sub-title>Women's 60kg | Men's 63.5kg | +92kg Round of 16</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911940'&amp;EntityType='LinearSchedule'&amp;EntityId='2f5337b2-16c1-420e-9cb2-c07a5b4a92ee'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729201300 +0800" stop="20240730040000 +0800" channel="CH16">
+        <title>End Of Transmission</title>
+        <desc>End Of Transmission</desc>
+        <sub-title>Olympic Games Paris 2024 Ch16 - 30 Jul 04:13 - 12:00</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7931254'&amp;EntityType='LinearSchedule'&amp;EntityId='27ffd23d-621d-4d04-95e7-ebc4b91affaa'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730040000 +0800" stop="20240730085500 +0800" channel="CH16">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911964'&amp;EntityType='LinearSchedule'&amp;EntityId='b97142a8-34b6-45cb-837f-e4ba49fc5316'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730085500 +0800" stop="20240730114300 +0800" channel="CH16">
+        <title>Boxing - Olympic Games Paris 2024 Men's 51kg | 80kg | Women's 57kg Round of 32 | Women's 54kg Round of 16</title>
+        <desc>Men's 51kg Round of 32 | Men's 80kg Round of 32 | Women's 54kg Round of 16 | Women's 57kg Round of 32</desc>
+        <sub-title>Men's 51kg | 80kg | Women's 57kg Round of 32 | Women's 54kg Round of 16</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911976'&amp;EntityType='LinearSchedule'&amp;EntityId='88bea35c-8e76-4274-a89a-da511946e1e6'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730114300 +0800" stop="20240730125000 +0800" channel="CH16">
+        <title>No programme streaming LIVE at this moment</title>
+        <desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911980'&amp;EntityType='LinearSchedule'&amp;EntityId='4d37f933-c617-4c2d-a78c-dd1ef31dfa80'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730125000 +0800" stop="20240730160300 +0800" channel="CH16">
+        <title>Beach Volleyball - Olympic Games Paris 2024 Men's &amp; Women's Preliminary Round</title>
+        <desc>Men's Preliminary Round | Women's Preliminary Round</desc>
+        <sub-title>Men's &amp; Women's Preliminary Round</sub-title>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7911992'&amp;EntityType='LinearSchedule'&amp;EntityId='ec0f6bd1-de90-4f76-b0c2-b951e442d4e2'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240729160000 +0800" stop="20240730040000 +0800" channel="CH17">
+        <title>Olympic Games News - Olympic Games Paris 2024</title>
+        <desc>Olympic Games News - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910259'&amp;EntityType='LinearSchedule'&amp;EntityId='522856ce-0ca7-4101-9586-63165ca11e87'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730040000 +0800" stop="20240730160000 +0800" channel="CH17">
+        <title>Olympic Games News - Olympic Games Paris 2024</title>
+        <desc>Olympic Games News - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910269'&amp;EntityType='LinearSchedule'&amp;EntityId='2521a443-08f9-4434-ad37-2af5ad88c185'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+    <programme start="20240730160000 +0800" stop="20240731040000 +0800" channel="CH17">
+        <title>Olympic Games News - Olympic Games Paris 2024</title>
+        <desc>Olympic Games News - Olympic Games Paris 2024</desc>
+        <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='7910288'&amp;EntityType='LinearSchedule'&amp;EntityId='65bbc7f8-49b5-4b01-ade9-1d1a12ad35bf'&amp;Width=1280&amp;Height=720"/>
+    </programme>
+</tv>
