@@ -361,7 +361,7 @@ https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4Ztpf97cWwzwrVBo3hPQqQ", "kid":"lPrhfk0V4c0L3HztCW+lEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" tvg-id="780.astro",Astro OLY 1
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5150/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5150/default.mpd
 
 
 
@@ -371,7 +371,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5150/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xqCbHYAdNjHNd9pIZXjd9g", "kid":"FgTsETWMbIgQK++Ktb3KEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" tvg-id="781.astro",Astro OLY 2
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5151/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5151/default.mpd
 
 
 
@@ -381,7 +381,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5151/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fHqYI2x9zOQ/EmkZAGC4oA", "kid":"1q/iRrPbBn34N/r8BneNEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" tvg-id="782.astro",Astro OLY 3
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5152/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5152/default.mpd
 
 
 
@@ -391,7 +391,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5152/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ocORwepRV1bVJyly1rvXKQ", "kid":"ZKjwhJDZHe2J+XfYWHjREA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" tvg-id="783.astro",Astro OLY 4
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5153/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5153/default.mpd
 
 
 
@@ -401,21 +401,21 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5153/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KI5/icnIcm2IB1Pdr55w7Q", "kid":"jLZ7f6NN5hUylHJUMJ1NEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTINF:-1 group-logo="https://iili.io/dx8UOYP.png" group-title="OLYMPIC PARIS 2024" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" tvg-id="784.astro",Astro OLY 5
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5154/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5154/default_primary.mpd
 
 #EXTINF:-1 tvg-id="785.astro" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" group-title="OLYMPIC PARIS 2024" group-logo="https://iili.io/dx8UOYP.png",Astro OLY 6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=847059d47386706eee610062170f5610:9449a550b7c9d00f5a62ee1d68ae32a8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5155/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5155/default_primary.mpd
 
 #EXTINF:-1 tvg-id="786.astro" tvg-logo="https://i.ibb.co/BVgQMvd/Sukan-Olimpik-Paris-2024.jpg" group-title="OLYMPIC PARIS 2024" group-logo="https://iili.io/dx8UOYP.png",Astro OLY 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6a0127305b4e146c13678114d943b10:e7e624c9c7fa76d81a462aba112fc461
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5156/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5156/default_primary.mpd
 
 #EXTINF:-1 tvg-id="308.astro" ch-number="308" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="📡Malaysia(ASTRO)📡" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png",QJ HD CH308
 #KODIPROP:inputstreamaddon=inputstream.adaptive
