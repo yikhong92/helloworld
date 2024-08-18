@@ -362,3 +362,67 @@ https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HTXhPVGhoWVRJdE5UZ3dZUzAwTmpZNExUazJaRGd0Tm1Vell6SmhaVEpqWWpGbSIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzgwMDM0NiwiaWF0IjoxNzIzMTk2MzQ2fQ.zVsbEajfbEQWnxKb4tOp3S8fX51kU4bKo0UP1FHLLqY"}
 https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
+
+
+#EXTINF:-1 group-title="台湾" tvg-id="三立台湾台" tvg-name="三立台湾台",三立台湾台
+https://test.zapi.us.kg/?id=settv-taiwan
+
+#EXTINF:-1 group-title="台湾" tvg-id="三立综合台" tvg-name="三立综合台",三立综合台
+http://37.27.111.214:8080/live/31/hls.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-id="三立都会台" tvg-name="三立都会台",三立都会台
+https://test.zapi.us.kg/?id=settv-city
+
+#EXTINF:-1 group-title="台湾" tvg-id="东森幼幼台" tvg-name="东森幼幼台",东森幼幼台
+https://test.zapi.us.kg/?id=ebc-yoyo
+
+#EXTINF:-1 group-title="台湾" tvg-id="东森新闻" tvg-name="东森新闻",东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-id="东森洋片" tvg-name="东森洋片",东森洋片
+https://test.zapi.us.kg/?id=ebc-emovie
+
+#EXTINF:-1 group-title="台湾" tvg-id="东森财经新闻" tvg-name="东森财经新闻",东森财经新闻
+https://test.zapi.us.kg/?id=ebc-finance
+
+#EXTINF:-1 group-title="台湾" tvg-id="东森购物" tvg-name="东森购物",东森购物
+http://37.27.111.214:8080/live/61/hls.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-id="东森超视" tvg-name="东森超视",东森超视
+https://test.zapi.us.kg/?id=ebc-super
+
+#EXTINF:-1 group-title="台湾" tvg-id="中华小当家" tvg-name="中华小当家",中华小当家
+http://61.221.215.25:8800/hls/40/index.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-id="中天亚洲" tvg-name="中天亚洲",中天亚洲
+https://test.zapi.us.kg/?id=cti-asia
+
+#EXTINF:-1 group-title="台湾" tvg-id="中天娱乐" tvg-name="中天娱乐",中天娱乐
+https://test.zapi.us.kg/?id=cti-yule
+
+#EXTINF:-1 group-title="台湾" tvg-id="中天综合" tvg-name="中天综合",中天综合
+https://test.zapi.us.kg/?id=ctitv36
+
+#EXTINF:-1 group-title="台湾" tvg-id="中视台湾台" tvg-name="中视台湾台",中视台湾台
+http://37.27.111.214:8080/live/7/hls.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-id="中视新闻" tvg-name="中视新闻",中视新闻
+https://test.zapi.us.kg/?id=ctv-news
+
+#EXTINF:-1 group-title="台湾" tvg-id="中视菁采台" tvg-name="中视菁采台",中视菁采台
+https://test.zapi.us.kg/?id=bravo
+
+#EXTINF:-1 group-title="台湾" tvg-id="亚洲卫视" tvg-name="亚洲卫视",亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
+
+#EXTINF:-1 group-title="台湾" tvg-id="人间卫视" tvg-name="人间卫视",人间卫视
+http://37.27.111.214:8080/live/101/hls.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-id="八大综合台" tvg-name="八大综合台",八大综合台
+http://61.221.215.25:8800/hls/56/index.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-id="公视" tvg-name="公视",公视
+https://test.zapi.us.kg/?id=pts
+
+#EXTINF:-1 group-title="台湾" tvg-id="公视台语台" tvg-name="公视台语台",公视台语台
+https://test.zapi.us.kg/?id=pts-ty
