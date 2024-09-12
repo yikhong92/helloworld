@@ -334,7 +334,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC HD" group-title="SOOKA" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/948bafbe79e1483ca678e88b9e11dff9/version/0/width/315/height/177/quality/80", ASTRO AEC 1
+#EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC HD" group-title="Chinese" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/948bafbe79e1483ca678e88b9e11dff9/version/0/width/315/height/177/quality/80", ASTRO AEC 1
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXUTNOVEkzT0RVdE1ESTJOeTAwT0dVekxXRXlZamd0Wldaa1pUUmlaR1l4TkRsbSIsIndtb3BpZCI6MzIsImV4cCI6MTcxMjIzMDg5NywiaWF0IjoxNzExNjI2ODk3fQ.cIFwR9gf-y8oSx8a_CWfsoxUCyM4Zjr1aLguh908zQI"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -343,7 +343,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"51Fl04uQlWfAM1OuSye2+A", "kid":"AesRaCCJQPiycLTgmUVw5w" } ], "type":"temporary" }
 https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="308.astro" ch-number="308" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="📡Malaysia(ASTRO)📡" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png",QJ HD CH308
+#EXTINF:-1 tvg-id="308.astro" ch-number="308" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="Chinese" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png",QJ HD CH308
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -358,7 +358,7 @@ https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xPNRHhKT5X4xz0IoNVUaag", "kid":"bvJHEbeaTBOk/m1Ndg2EPA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HTXhPVGhoWVRJdE5UZ3dZUzAwTmpZNExUazJaRGd0Tm1Vell6SmhaVEpqWWpGbSIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzgwMDM0NiwiaWF0IjoxNzIzMTk2MzQ2fQ.zVsbEajfbEQWnxKb4tOp3S8fX51kU4bKo0UP1FHLLqY"}
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SOOKA" tvg-logo="https://telegra.ph/file/ab4779ded9411f381bd84.png" tvg-id="311.astro",Astro AOD
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Chinese" tvg-logo="https://telegra.ph/file/ab4779ded9411f381bd84.png" tvg-id="311.astro",Astro AOD
 https://linear07-playback.sooka.my/CH5/masterCH5.mpd
 
 
