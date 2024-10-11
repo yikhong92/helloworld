@@ -36,7 +36,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/403/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/Wvhzqn6I8mPIPGyq8ridg", "kid":"UXwwjvZBmxdn6a5xDIl3EA" } ], "type":"temporary" }
 #EXTINF:-1 ch-number="325" tvg-id="325.astro" group-title="Chinese" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png",325 凤凰卫视
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/400/default.mpd
 
 #EXTINF:-1 ch-number="305" tvg-id="305.astro" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",305 TVB 经典台
 #KODIPROP:inputstream.adaptive.license_type=clearkey
