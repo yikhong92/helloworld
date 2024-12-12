@@ -291,7 +291,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png", HBO Family 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
@@ -305,7 +305,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NssgY79TONGNMWVzcbFYFw", "kid":"H+kmhadYRNxUydrBJIAlEA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Hits_v1.png",HITS HD
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
