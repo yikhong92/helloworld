@@ -2,7 +2,8 @@
     "spider": "https://github.com/yikhong92/helloworld/raw/master/custom_spider.jar;md5;6a23e18c8792752711abd786491678ff",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
-        {
+        {"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar","key":"csp_Douban","name":"雷蒙优选 | 📡豆瓣Ⅰ","type":3,"api":"csp_Douban","searchable":0,"ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/douban.json"},
+	{
             "key":"csp_Xiaoxintv","name":"xiaoxin","type":3,"api":"csp_Xiaoxintv","searchable":1,"quickSearch":0,"filterable":1
         },
         {
