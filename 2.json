@@ -19,6 +19,7 @@
             "api": "https://json.heimuer.xyz/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1,
+            "quickSearch": 1,
             "categories": [
                 "日本动漫",
                 "国产动漫",
