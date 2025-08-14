@@ -14,7 +14,7 @@
 {"key":"drpy_js_小宝影院[飞]","name":"影視| 小宝[飛]","type":3,"api":"https://raw.githubusercontent.com/bobyang3/tvbox/refs/heads/own/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/bobyang3/tvbox/refs/heads/own/js/小宝影院[飞].js"},
 {"key":"nyys","name":"影視| 纽约[直连]","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/bobyang3/tvbox/refs/heads/own/json/ys.json","jar": "https://raw.githubusercontent.com/bobyang3/tvbox/refs/heads/own/jar/custom_spiderNY.jar"}, //https://4tvbox.ggff.net/custom_spider.jar; "ext":"https://4tvbox.ggff.net/ys.json"
 {"key":"苹果","name":"影視| 頻果","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"drpy_js_量子资源","name":"量子","type":3,"api":"https://raw.githubusercontent.com/bobyang3/tvbox/refs/heads/own/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/bobyang3/tvbox/refs/heads/own/js/量子资源.js"},
+{"key":"drpy_js_量子资源","name":"量子","type":3,"api":"https://raw.githubusercontent.com/bobyang3/tvbox/refs/heads/own/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/bobyang3/tvbox/refs/heads/own/js/量子资源.js"}
 ],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
