@@ -11,10 +11,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="103" tvg-id="103.astro" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="148.astro" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+https://live-ssar-02.tonton.com.my/1758825601/0xf8e036bc313c8a8ac01467ae6585c74f3681de180b3f470dda3c9d2da6e23860/stream-8tv/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02e2fe99cb3eff9bcf&bpkio_sessionid=10e3f0b212-b3b213bb-7982-407d-8bcf-83e561e7b290&category=all&did=6de2b240-2ed5-c84d-0a49-7228dc7d3a8d&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAABmFo8GLI4dIsnQBPH9vI2WuaGp-I2mzo4aUgdk6v4FVgGA_DSuRQdE62WFPX-lwh7hN69LpoTqHlYElb3b6jYXlhIk0vDg3FIfTCKclm2rhHfPMCiK0sYWJvw9dYphddwNeu1Yd754mjR4uEpkhJRIZc0irrhMBal786zAjdrHCz5LfZCzU2lJ-xE3eciein36TGz7TcYoEnaBqJSru0A
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="148.astro" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV 高清
 https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
