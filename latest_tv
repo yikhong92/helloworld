@@ -12,7 +12,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="148.astro" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV
-http://cdn6.163189.xyz/163189/8tv
+http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="148.astro" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV 高清
 http://cdn6.163189.xyz/163189/8tv
