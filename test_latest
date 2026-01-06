@@ -266,7 +266,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5170/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_ott.mpd
 
 ##37688
 #EXTINF:-1 tvg-id="816.astro" tvg-name="ASSP6 HD" group-title="Sports" tvg-logo="https://i.ibb.co/TMyJttT4/Astro-Badminton-2.png" ch-number="816", 816 Astro Badminton 2
