@@ -11,19 +11,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 group-title="马来西亚" ch-number="103" tvg-id="103.astro" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
-
-#EXTINF:-1 group-title="马来西亚" ch-number="108" tvg-id="148.astro" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",八度空间1
-http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
-
-#EXTINF:-1 group-title="马来西亚" ch-number="118" tvg-id="148.astro" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",八度空间2
-http://cdn6.163189.xyz/163189/8tv
-
+#EXTINF:-1 group-title="马来西亚" ch-number="128" tvg-id="148.astro" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",八度空间
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="马来西亚" ch-number="128" tvg-id="148.astro" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",八度空间3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
+https://unifi.whacat.tech/8TV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yKD35puzHf1HXaJvxsYAOw", "kid":"YFB+8NycgT1fjHsiKUEvEA" } ], "type":"temporary" }
