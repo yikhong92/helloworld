@@ -12,22 +12,25 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="148.astro" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
-
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="148.astro" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV 高清
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
-
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="148.astro" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV test
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(8TV)/master.mpd
+https://unifi.whacat.tech/8TV
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="148.astro" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV 高清
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
+https://unifi.whacat.tech/8TV
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="148.astro" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV test
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
+https://unifi.whacat.tech/8TV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yKD35puzHf1HXaJvxsYAOw", "kid":"YFB+8NycgT1fjHsiKUEvEA" } ], "type":"temporary" }
